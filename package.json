@@ -67,7 +67,7 @@
     "@stdlib/console-log-each": "^0.2.1",
     "@stdlib/constants-float32-eps": "^0.2.2",
     "@stdlib/math-base-assert-is-nanf": "^0.2.2",
-    "@stdlib/math-base-special-abs": "^0.2.1",
+    "@stdlib/math-base-special-abs": "^0.2.2",
     "@stdlib/math-base-special-pow": "^0.2.1",
     "@stdlib/random-array-uniform": "^0.2.1",
     "@stdlib/random-base-discrete-uniform": "^0.2.1",
@@ -76,7 +76,7 @@
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
     "tap-min": "git+https://github.com/Planeshifter/tap-min.git",
-    "@stdlib/bench-harness": "^0.2.1"
+    "@stdlib/bench-harness": "^0.2.2"
   },
   "engines": {
     "node": ">=0.10.0",
