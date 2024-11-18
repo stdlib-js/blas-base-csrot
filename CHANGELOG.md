@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`52e9aa8`](https://github.com/stdlib-js/stdlib/commit/52e9aa8b65c4485c8a077dde000c44b5cfefc5fb) - **docs:** update example _(by Athan Reines)_
 -   [`8e33b88`](https://github.com/stdlib-js/stdlib/commit/8e33b88b7c99fbfa44e9af0ade340334fddcb2fd) - **docs:** fix example _(by Athan Reines)_
 -   [`2777e4b`](https://github.com/stdlib-js/stdlib/commit/2777e4be161869d09406e3b17947d24c64b47af2) - **bench:** resolve lint errors in benchmarks _(by Athan Reines)_
 
