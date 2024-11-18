@@ -6,12 +6,23 @@
 
 ## Unreleased (2024-11-18)
 
+<section class="features">
+
+### Features
+
+-   [`2d0ea39`](https://github.com/stdlib-js/stdlib/commit/2d0ea39cfb5e3f2c31e13520ac6bec201e7842ef) - add C `ndarray` implementation for `blas/base/csrot` [(#3067)](https://github.com/stdlib-js/stdlib/pull/3067)
+
+</section>
+
+<!-- /.features -->
+
 <section class="commits">
 
 ### Commits
 
 <details>
 
+-   [`2d0ea39`](https://github.com/stdlib-js/stdlib/commit/2d0ea39cfb5e3f2c31e13520ac6bec201e7842ef) - **feat:** add C `ndarray` implementation for `blas/base/csrot` [(#3067)](https://github.com/stdlib-js/stdlib/pull/3067) _(by Aman Bhansali, Athan Reines, stdlib-bot)_
 -   [`52e9aa8`](https://github.com/stdlib-js/stdlib/commit/52e9aa8b65c4485c8a077dde000c44b5cfefc5fb) - **docs:** update example _(by Athan Reines)_
 -   [`8e33b88`](https://github.com/stdlib-js/stdlib/commit/8e33b88b7c99fbfa44e9af0ade340334fddcb2fd) - **docs:** fix example _(by Athan Reines)_
 -   [`2777e4b`](https://github.com/stdlib-js/stdlib/commit/2777e4be161869d09406e3b17947d24c64b47af2) - **bench:** resolve lint errors in benchmarks _(by Athan Reines)_
@@ -26,8 +37,9 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
+-   Aman Bhansali
 -   Athan Reines
 
 </section>
