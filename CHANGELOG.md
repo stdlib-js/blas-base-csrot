@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`4d38ce8`](https://github.com/stdlib-js/stdlib/commit/4d38ce8450beef896c74e578fc03478f7e2f4a97) - **test:** update test descriptions _(by Athan Reines)_
 -   [`ba6ded3`](https://github.com/stdlib-js/stdlib/commit/ba6ded358ecea8ad39d9b34acce83663ac83948f) - **docs:** change variable naming in `blas/base/csrot` [(#6822)](https://github.com/stdlib-js/stdlib/pull/6822) _(by Shabareesh Shetty, Athan Reines)_
 -   [`99b9273`](https://github.com/stdlib-js/stdlib/commit/99b9273752c85e3a322ea18dfa60bb7632478fc5) - **docs:** update examples for `blas/base/csrot` [(#4963)](https://github.com/stdlib-js/stdlib/pull/4963) _(by Gururaj Gurram)_
 -   [`62364f6`](https://github.com/stdlib-js/stdlib/commit/62364f62ea823a3b52c2ad25660ecd80c71f8f36) - **style:** fix C comment alignment _(by Philipp Burckhardt)_
