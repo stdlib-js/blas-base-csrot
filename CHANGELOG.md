@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`09c9ceb`](https://github.com/stdlib-js/stdlib/commit/09c9ceb58c6dd23c10f1980094851983c57d693f) - **chore:** fix formatting _(by Athan Reines)_
 -   [`51bf6f9`](https://github.com/stdlib-js/stdlib/commit/51bf6f9d2bb027aacecda87e02f957badbc246b0) - **bench:** fix formatting _(by Athan Reines)_
 -   [`4d38ce8`](https://github.com/stdlib-js/stdlib/commit/4d38ce8450beef896c74e578fc03478f7e2f4a97) - **test:** update test descriptions _(by Athan Reines)_
 -   [`ba6ded3`](https://github.com/stdlib-js/stdlib/commit/ba6ded358ecea8ad39d9b34acce83663ac83948f) - **docs:** change variable naming in `blas/base/csrot` [(#6822)](https://github.com/stdlib-js/stdlib/pull/6822) _(by Shabareesh Shetty, Athan Reines)_
