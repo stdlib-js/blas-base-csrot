@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-07-21)
+## Unreleased (2025-12-17)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`ea9f072`](https://github.com/stdlib-js/stdlib/commit/ea9f072b321a395594b7904a11807f7f78d09b28) - **bench:** refactor to use dynamic memory allocation in `blas/base/csrot` [(#9090)](https://github.com/stdlib-js/stdlib/pull/9090) _(by Ishwar, Athan Reines)_
 -   [`a9776fd`](https://github.com/stdlib-js/stdlib/commit/a9776fdca0331c293eade49bd195836fbb434999) - **refactor:** update include header guards for single precision complex packages [(#7708)](https://github.com/stdlib-js/stdlib/pull/7708) _(by Shabareesh Shetty)_
 -   [`4dba421`](https://github.com/stdlib-js/stdlib/commit/4dba421f5bd8acafdd58e1c7681965b9ad267bc7) - **docs:** minor clean-up _(by Philipp Burckhardt)_
 -   [`09c9ceb`](https://github.com/stdlib-js/stdlib/commit/09c9ceb58c6dd23c10f1980094851983c57d693f) - **chore:** fix formatting _(by Athan Reines)_
@@ -45,11 +46,12 @@
 
 ### Contributors
 
-A total of 5 people contributed to this release. Thank you to the following contributors:
+A total of 6 people contributed to this release. Thank you to the following contributors:
 
 -   Aman Bhansali
 -   Athan Reines
 -   Gururaj Gurram
+-   Ishwar
 -   Philipp Burckhardt
 -   Shabareesh Shetty
 
