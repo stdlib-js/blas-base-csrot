@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import csrot from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-csrot@esm/index.mjs';
+import csrot from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-csrot@v0.2.0-esm/index.mjs';
 ```
 
 #### csrot( N, x, strideX, y, strideY, c, s )
@@ -167,7 +167,7 @@ import Complex64 from 'https://cdn.jsdelivr.net/gh/stdlib-js/complex-float32-cto
 import ccopy from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-ccopy@esm/index.mjs';
 import zeros from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-zeros@esm/index.mjs';
 import logEach from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each@esm/index.mjs';
-import csrot from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-csrot@esm/index.mjs';
+import csrot from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-csrot@v0.2.0-esm/index.mjs';
 
 function rand() {
     return new Complex64( discreteUniform( 0, 10 ), discreteUniform( -5, 5 ) );
