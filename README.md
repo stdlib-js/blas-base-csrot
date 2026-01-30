@@ -44,6 +44,11 @@ limitations under the License.
 To use in Observable,
 
 ```javascript
+csrot = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-csrot@umd/browser.js' )
+```
+The previous example will load the latest bundled code from the umd branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/blas-base-csrot/tags). For example,
+
+```javascript
 csrot = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-csrot@v0.2.0-umd/browser.js' )
 ```
 
@@ -56,7 +61,7 @@ var csrot = require( 'path/to/vendor/umd/blas-base-csrot/index.js' )
 To include the bundle in a webpage,
 
 ```html
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-csrot@v0.2.0-umd/browser.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-csrot@umd/browser.js"></script>
 ```
 
 If no recognized module system is present, access bundle contents via the global scope:
@@ -189,7 +194,7 @@ csrot.ndarray( 2, x, 2, 1, y, 2, 1, 0.8, 0.6 );
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-ccopy@umd/browser.js"></script>
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/array-zeros@umd/browser.js"></script>
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each@umd/browser.js"></script>
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-csrot@v0.2.0-umd/browser.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-csrot@umd/browser.js"></script>
 <script type="text/javascript">
 (function () {
 
