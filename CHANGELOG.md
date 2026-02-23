@@ -2,6 +2,40 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-02-23)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`ac99312`](https://github.com/stdlib-js/stdlib/commit/ac99312b4e8b2b6a31bb37a7077399ee35a2c186) - **bench:** refactor to use string interpolation in `blas/base/csrot` [(#10391)](https://github.com/stdlib-js/stdlib/pull/10391) _(by Shubham)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Shubham
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.1">
 
 ## 0.2.1 (2026-02-08)
