@@ -53,7 +53,7 @@
     "@stdlib/strided-base-min-view-buffer-index": "^0.3.1",
     "@stdlib/strided-base-reinterpret-complex64": "^0.2.2",
     "@stdlib/strided-base-stride2offset": "^0.1.1",
-    "@stdlib/types": "^0.4.3",
+    "@stdlib/types": "^0.5.1",
     "@stdlib/utils-define-nonenumerable-read-only-property": "^0.2.3",
     "@stdlib/utils-library-manifest": "^0.2.4",
     "@stdlib/utils-try-require": "^0.2.3"
