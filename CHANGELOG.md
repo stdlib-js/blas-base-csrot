@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-09-18)
+## Unreleased (2026-10-12)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`fe012cf`](https://github.com/stdlib-js/stdlib/commit/fe012cf9cc6af56bc42c03d5b8473f1c9b561e74) - **test:** migrate `blas/base/csrot` to ULP-based assertions [(#15890)](https://github.com/stdlib-js/stdlib/pull/15890) _(by Athan Reines)_
 -   [`ac99312`](https://github.com/stdlib-js/stdlib/commit/ac99312b4e8b2b6a31bb37a7077399ee35a2c186) - **bench:** refactor to use string interpolation in `blas/base/csrot` [(#10391)](https://github.com/stdlib-js/stdlib/pull/10391) _(by Shubham)_
 
 </details>
@@ -24,8 +25,9 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Shubham
 
 </section>
